@@ -11,7 +11,7 @@ One best practice could be to expose only port 8080 (nginx) and have all other p
 
 default authentication setting of the cluster is as follows.
 
-username : username
+username : username \n 
 password : password
 
 But you can offcourse change the settings in the script by using the following shell command
